@@ -1,9 +1,11 @@
 import React from "react";
+import entrance from '../../public/entrance.jpg'
 
 const Entrance = () => {
     return (
-        <div></div>
+        <div>
+            <img src={entrance} alt="Entrance" className="w-full h-screen object-cover" />
+        </div>
     )
-}
-
+};
 export default Entrance

@@ -1,5 +1,5 @@
 import React from "react";
-import Entrance from "./components/Entrance";
+import Entrance from "./components/entrance";
 
 function App() {
   return (
